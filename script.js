@@ -1,5 +1,5 @@
 // 1. API CONFIGURATION
-const OPENAI_API_KEY = "YOUR_OWN_AI_API_KEY";
+const OPENAI_API_KEY = "YOUR_OWN_OPENAI_API_KEY";
 const API_URL = "https://api.openai.com/v1/chat/completions";
 
 
